@@ -16,12 +16,12 @@ os.color("a")
 
 def __main__:
  account_name=input("Account name ? ")
-   if account_name=="":
+   if account_name=="":Seeedm3n
      print('please input a real name')
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[1] - Likes ");print("");print("[2] - Views ");print("1000");print("[1] - Followers ");print("500");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
